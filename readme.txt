@@ -1,6 +1,7 @@
-cse23152, 212497509, Hasan, Sadman Sakib
-ksangeev, 213179734, Navaratnam, Sangeev
-shfb0019, 213159116, Abdullah, Ashfaq
+Abdullah, Ashfaq
+Hasan, Sadman Sakib
+Navaratnam, Sangeev
+
 
 
 ---------------------
